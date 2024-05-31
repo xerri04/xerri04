@@ -1,6 +1,6 @@
 ## whoami
 
-A potato at work
+a potato at work
 
 - [LinkedIn](https://www.linkedin.com/in/tanweixin04/)
 
